@@ -1,6 +1,6 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue"
-import Navbar from "./components/main_navbar.vue"
+import HelloWorld from "../components/HelloWorld.vue"
+import Navbar from "../components/main_navbar.vue"
 </script>
 
 <template> 

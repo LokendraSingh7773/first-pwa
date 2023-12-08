@@ -1,10 +1,10 @@
 <script setup>
-import Navbar from "./components/main_navbar.vue"
+import Navbar from "../components/main_navbar.vue"
 </script>
 
 <template>
   <!-- navbar -->
-  <navbar/>
+     <Navbar/>
 
   <!-- first section -->
   <section class="bg-[#ccff00] py-20 px-4">

@@ -1,8 +1,5 @@
-<script>
-</script>
 
 <template>
-  
   <footer>
   <div class="bg-[#ccff00] py-8 xl:py-12">
     <div class="grid grid-col-1 md:grid-cols-2 sm:px-20 xl:px-64 ">
